@@ -1,0 +1,44 @@
+/*welcome*/
+body
+{
+    background-color: #080808;
+}
+.container 
+
+{
+    background-color:rgb(215, 149, 7);
+    border-radius: 20px;
+    box-shadow: 0px 0px 30px rgb(215, 149, 7);   
+}
+.container h1 
+{
+    color: rgba(31, 30, 30,0.7);
+    font-size: 29px;
+    font-weight: 700;
+    
+}
+.container .bookmark
+{
+    color: rgba(31, 30, 30,0.9);
+    width:100%;
+    border: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+
+
+.container h2
+{
+    
+    padding: 30px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+}
+
+
+
+
